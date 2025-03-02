@@ -26,7 +26,7 @@ A Flutter-based quiz application that tests your knowledge with multiple-choice 
 1. Clone the Repository:
 
    ```bash
-   git clone https://github.com/yourusername/quiz-app.git
+   git clone https://github.com/MishkoGo/quiz.git
    cd quiz-app
 
 2. Install Dependencies:
